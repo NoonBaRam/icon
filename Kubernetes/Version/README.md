@@ -1,6 +1,7 @@
 # <u>v1.10-Left Shark</u>
+![v1 10](https://github.com/NoonBaRam/icon/assets/132915445/c40e35f3-203f-4fa9-a25a-57fc16d51ca6)
 
-![v1.10](C:\베스핀\99. 개인\로고\k8s버전별LOGO\v1.10.png)
+
 
 
 

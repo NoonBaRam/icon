@@ -55,3 +55,6 @@
 
 # <u>v1.28-Planternetes</u>
 ![v1 28](https://github.com/NoonBaRam/icon/assets/132915445/1be96494-00f1-4aa0-b0d4-a9786ee40964)
+
+# <u>v1.29-Mandala</u>
+![k8s129-mandala-300dpi](https://github.com/NoonBaRam/icon/assets/132915445/ff07c01d-d338-4654-90c5-604766c65c8f)
